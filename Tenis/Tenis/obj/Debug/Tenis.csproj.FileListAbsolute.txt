@@ -1,0 +1,10 @@
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\bin\Debug\Tenis.exe
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\bin\Debug\Tenis.pdb
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\obj\Debug\Tenis.exe
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\Tenis\Tenis\obj\Debug\Tenis.pdb
+C:\Documents and Settings\alumno\Escritorio\Tenis\Tenis\obj\Debug\Tenis.exe
+C:\Documents and Settings\alumno\Escritorio\Tenis\Tenis\obj\Debug\Tenis.pdb
+C:\Documents and Settings\alumno\Escritorio\Tenis\Tenis\bin\Debug\Tenis.exe
+C:\Documents and Settings\alumno\Escritorio\Tenis\Tenis\bin\Debug\Tenis.pdb
+C:\Documents and Settings\alumno\Escritorio\Tenis\Tenis\obj\Debug\ResolveAssemblyReference.cache
