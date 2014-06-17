@@ -9,12 +9,12 @@ namespace Tenis
     {
        private int puntos;
 
-        
+        String PruebaVersion="Añadimos lineas";
 
 
         public jugador()
-        {
-             puntos = 0;
+        {//borramos la siguiente
+             
         }
 
         public int Puntos
@@ -22,6 +22,7 @@ namespace Tenis
             get { return puntos; }
             set { puntos = value; }
         }
-
+		
+		 
     }
 }
